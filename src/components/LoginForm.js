@@ -16,7 +16,7 @@ class LoginForm extends React.Component{
                         </div>
                         <div>
                             <h1 className="text-center">Bienvenido</h1>
-                            <h3 className="text-center">Ingrese su usuario y su clave</h3>
+                            <h3 className="text-center">Ingrese suu usuario y su clave</h3>
                             <form>
                                 <div className="form-group">
                                     <label className="text-justify font-weight-bold">Usuario </label>
