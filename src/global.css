@@ -16,6 +16,15 @@ h1 {
   font-family: 'Anton', sans-serif;
 }
 
+h3 {
+  font-family: 'Laton',sans-serif;
+  font-size: large;
+}
+
+label {
+  font-size: 14px;
+}
+
 a.link-unstyled {
   color: inherit;
 }
