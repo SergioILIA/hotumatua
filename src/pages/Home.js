@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import LoginForm from '../components/LoginForm';
 export default class Home extends Component {
 render() 
     { 
         return (
-            <h1>Hello World</h1>
+            <React.Fragment>
+                <LoginForm />
+            </React.Fragment>
         ); 
     }
 }
