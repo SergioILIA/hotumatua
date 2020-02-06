@@ -22,7 +22,7 @@ h3 {
 }
 
 label {
-  font-size: 14px;
+  font-size: 0.8em;
 }
 
 a.link-unstyled {
@@ -80,4 +80,10 @@ a.link-unstyled:hover {
 
 .btn.btn-danger:not(:disabled):not(.disabled):focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 64, 64, 0.5);
+}
+
+a {
+  color: #656565;
+  line-height: inherit;
+  text-decoration: none;
 }
